@@ -1,0 +1,11 @@
+un lenguaje de programaion solo puede utilizarse en algunos sistemas 
+operativos por que cada lenguaje tiene su propio conjunto de 
+bibliotecas, Ademas pueden tener diferentes arquitecturas de procesador, 
+conjunto de instrucciones y modelos de memoria lo que puede afectar la 
+compatbilidad.
+
+el virtual box es un software de codigo abierto, donde podemos instalar 
+y ejecutar diferentes sistemas operativos.
+
+si una maquina virtual se rompe generalmente no afectaria a las otras 
+maquinas ya que funcionan independientemente aun asi un problema grave si podria alterar su funcionamiento.
